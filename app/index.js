@@ -1,5 +1,5 @@
 'use strict';
-import React from 'react';
+import Reacting from 'react';
 import ReactDOM from 'react-dom';
 import App from './container/App';
 
